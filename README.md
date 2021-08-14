@@ -9,16 +9,27 @@ Dataset :
 The Dataset is obtained from RBI’s official website. It is a Time Series Data on India’s external debt from 1991 to 2020. The dataset contains 64 features which have been categorised into 12 broad categories namely:
 
 (a)	Total Multilateral Debt
+
 (b)	Total Bilateral Debt
+
 (c)	IMF Loans
+
 (d)	Total Trade Credit
+
 (e)	Total Commercial Borrowing
+
 (f)	NRI and FC Deposit
+
 (g)	Total Rupee Debt
+
 (h)	Total Long Term Debt
+
 (i)	Total Short Term Debt
+
 (j)	Gross Total Debt
+
 (k)	Debt Stock GDP Ratio
+
 (l)	Debt Service Ratio
 
 
